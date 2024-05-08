@@ -7,7 +7,7 @@
         {
           "course name": "Programming Fundamentals I",
           "progress": {
-            "activities completed": 1,
+            "activities completed": 0,
             "quiz score": 0
           }
         }
@@ -282,6 +282,10 @@
             },
             {
               "text": "\"myNum\"",
+              "data": 3
+            },
+            {
+              "text": "/",
               "data": 3
             }
           ]
